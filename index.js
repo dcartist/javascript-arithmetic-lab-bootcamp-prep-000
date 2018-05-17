@@ -20,5 +20,5 @@ makeInt(n){
   return parseInt(n)
 }
 preserveDecimal(n){
-  
+  return parseFloat(n)
 }
