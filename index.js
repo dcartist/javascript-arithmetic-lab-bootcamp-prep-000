@@ -13,3 +13,6 @@ divide(a,b){
 inc(n){
   return n++
 }
+dec(n){
+  return n--
+}
