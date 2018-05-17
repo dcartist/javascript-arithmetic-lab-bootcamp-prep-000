@@ -10,15 +10,15 @@ function multiply(a,b){
 function divide(a,b){
 return a/b
 }
-inc(n){
+function inc(n){
   return n++
 }
-dec(n){
+function dec(n){
   return n--
 }
-makeInt(n){
+function makeInt(n){
   return parseInt(n)
 }
-preserveDecimal(n){
+function preserveDecimal(n){
   return parseFloat(n)
 }
